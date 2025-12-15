@@ -1,4 +1,4 @@
-# KipuBank V3 🏦⚡
+# KipuBank V3
 
 > **DeFi Vault with Automatic Token Conversion via Uniswap V4**
 
